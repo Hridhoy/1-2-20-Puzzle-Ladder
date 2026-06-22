@@ -1,6 +1,3 @@
-Department of Electrical and Computer Engineering
- 	North South University	
-
 Senior Design Project
 
 1220 ~ The Puzzle Sequence
