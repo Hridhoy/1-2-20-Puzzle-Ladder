@@ -49,8 +49,13 @@ The best math games have just the right level of challenge. Players have to choo
 
 A good example is the popular card game Uno or Snakes & Ladders, which are easy to learn—but not always easy to win. Lots of kids (and adults) love those game, including us. The game helps them learn how to count and identify numbers.
 
-![Home Screen](home%20screen%201220.png)
-![1220 Level Screen](1220%20level%20screen.png)
+<p align="center">
+  <img src="1220 logo.png" width="220" />
+  <img src="home screen 1220.png" width="220" />
+  <img src="1220 level screen.png" width="220" />
+  <img src="1220 HS2.png" width="220" />
+  <img src="1220 win popup.png" width="220" />
+</p>
 
 
 
